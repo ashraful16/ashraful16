@@ -39,10 +39,10 @@ I am Md. Ashraful Alam. Currently, I am pursuing the degree in Electrical and El
 
 <details open>
  <summary> 😊 <b>My Github Stats</b>: </summary>
-<a href="https://github.com/">
+<a href="https://github.com/ashraful16">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashraful16&show_icons=true&theme=tokyonight&line_height=27" />
 </a>
-<a href="https://github.com/">
+<a href="https://github.com/ashraful16">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashraful16&hide=css,java,html&theme=tokyonight" alt="Ashraful's github stats"/>
 </a>
 </details>
