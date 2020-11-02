@@ -43,7 +43,7 @@ I am Md. Ashraful Alam. Currently, I am pursuing the degree in Electrical and El
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashraful16&show_icons=true&theme=tokyonight&line_height=27" />
 </a>
 <a href="https://github.com/">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashraful16&hide=css,java,html&theme=tokyonight" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashraful16&hide=css,java,html&theme=tokyonight" alt="Ashraful's github stats"/>
 </a>
 </details>
 
