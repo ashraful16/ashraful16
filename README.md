@@ -13,7 +13,7 @@
 - 🤔 I’m looking for help with Big Data Processing efficiently
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: He/His
-- 🥅 2020 Goals: Write blog post
+- 🥅 2021 Goals: Doing something new!!!
 - ⚡ Fun fact: I_am_a_Random_variable
 <!-- - 📫 How to reach me:     -->
 
