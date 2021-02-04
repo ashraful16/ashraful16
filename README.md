@@ -5,7 +5,7 @@
 **ashraful16/ashraful16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-##  Hello World <img src="https://github.com/asd1876/asd1876/blob/main/images/Earth.gif" width="30px"> I'm [Ashraful!](https://github.io) <img src="https://github.com/asd1876/asd1876/blob/main/images/wave.gif" width="30px">
+##  Hello World <img src="https://github.com/asd1876/asd1876/blob/main/images/Earth.gif" width="30px"> I'm [Ashraful!](https://ashraful16.github.io/) <img src="https://github.com/asd1876/asd1876/blob/main/images/wave.gif" width="30px">
 - 💻 I'm a Student
 - 🔭 I’m currently working on DL & ML
 - 🌱 I’m currently learning Image Segmentation 
