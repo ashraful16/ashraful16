@@ -6,6 +6,8 @@
 -->
 
 ##  Hello World <img src="https://github.com/asd1876/asd1876/blob/main/images/Earth.gif" width="30px"> I'm [Ashraful!](https://ashraful16.github.io/) <img src="https://github.com/asd1876/asd1876/blob/main/images/wave.gif" width="30px">
+
+<!--
 - 💻 I'm a Student
 - 🔭 I’m currently working on DL & ML
 - 🌱 I’m currently learning Image Segmentation 
@@ -16,27 +18,27 @@
 - 🥅 2021 Goals: Doing something new!!!
 - ⚡ Fun fact: I_am_a_Random_variable
 <!-- - 📫 How to reach me:     -->
-
+<!--
 <p align='center'>
 <strong> About Me </strong>
 </p>
-
+<!--
 <p align='center'>  
 <img width="300px" height="140" src="https://github.com/ashraful16/ashraful16/blob/main/images/about_me.gif"><br> 
 </p>
-
+<!--
 I am Md. Ashraful Alam. Currently, I am pursuing the degree in Electrical and Electronic Engineering (EEE) with the [Khulna University of Engineering & Technology (KUET)](http://www.kuet.ac.bd/). My research interests include Medical Image and Data Processing, Computer Vision, Machine Learning(ML), and Deep Learning(DL). I  am also working on Medical Data Analysis, Skin Cancer Classification, and Multilabel Whole Heart Segmentation from CT and MRI.
 
 
 
-
+<!--
  ## Skills
 | Languages  | Frameworks | Others |
 | ---------- | ---------- | ---------- |
 | ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp; ![Matlab](https://img.shields.io/badge/-Matlab-black?logo=Mathworks&style=social)&nbsp;&nbsp; ![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp; ![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)&nbsp;&nbsp; ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp; ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp; ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp; | ![scikit-learn](https://img.shields.io/badge/-scikit%20learn-black?logo=scikit-learn&style=social)&nbsp;&nbsp; ![Keras](https://img.shields.io/badge/-Keras-black?logo=Keras&style=social)&nbsp;&nbsp;  ![OpenCv](https://img.shields.io/badge/OpenCv-black?logo=Open%20Source%20initiative&style=social)&nbsp;&nbsp; ![Flask](https://img.shields.io/badge/Flask-black?logo=Flask&style=social)&nbsp;&nbsp; ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?logo=TensorFlow&style=social)&nbsp;&nbsp; |![Bash](https://img.shields.io/badge/-Bash-black?logo=GNU%20Bash&style=social)&nbsp;&nbsp; ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp; ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp; ![linux](https://img.shields.io/badge/-linux-black?logo=linux&style=social)&nbsp;&nbsp; ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-black?logo=Raspberry%20Pi&style=social)&nbsp;&nbsp; ![Arduino](https://img.shields.io/badge/Arduino-black?logo=Arduino&style=social)&nbsp;&nbsp; | 
 
 
-
+<!--
 <details open>
  <summary> 😊 <b>My Github Stats</b>: </summary>
 <a href="https://github.com/ashraful16">
